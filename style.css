@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: rgb(54, 122, 145);
+    background: lightgray;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+}
+
+div {
+    font-family: "Times New Roman", Times, serif;
+    text-align: left;
+    text-transform: capitalize;
+    font-size: 100%;
+    font-weight: bold;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}
